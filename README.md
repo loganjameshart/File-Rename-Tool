@@ -1,5 +1,5 @@
 # File Rename Tool
-Scrapes an inputted Substack newsletter page and outputs to a Word doc. 
+Renames files in a specific folder using a CSV as input/output.
 
 ## How It's Made:
 
